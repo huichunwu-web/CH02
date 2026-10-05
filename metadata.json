@@ -1,0 +1,6 @@
+{
+  "name": "好餐廳餐飲衛生與空間規劃學習系統",
+  "description": "餐飲外場與廚房基本要求互動教學平台，包含學習字卡、模擬測驗、情境分析與學習歷程PDF輸出",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
